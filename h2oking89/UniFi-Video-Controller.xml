@@ -8,6 +8,7 @@
   <Repository>h2oking89/unifi-video-controller</Repository>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
+    <Environment>
       <Variable>
       <Name>PUID</Name>
       <Value>99</Value>
@@ -16,6 +17,7 @@
       <Name>PGID</Name>
       <Value>100</Value>
     </Variable>
+	  </Environment>
   <Environment/>
   <Networking>
     <Mode>bridge</Mode>
