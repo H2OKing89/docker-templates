@@ -87,9 +87,8 @@
     </Volume>
   </Data>
   <Version></Version>
-    <Icon>https://raw.githubusercontent.com/H2OKing89/docker-templates/master/h2oking89/img/uvc-g3-3_1024x1024_256x256.png</Icon>
   <WebUI>http://[IP]:[PORT:7080]/manage</WebUI>
-  <Banner>http://i.imgur.com/dD9ub3n.png</Banner>
-  <Icon>http://i.imgur.com/dD9ub3n.png</Icon>
+  <Banner>https://raw.githubusercontent.com/H2OKing89/docker-templates/master/h2oking89/img/uvc-g3-3_1024x1024_256x256.png</Banner>
+  <Icon>https://raw.githubusercontent.com/H2OKing89/docker-templates/master/h2oking89/img/uvc-g3-3_1024x1024_256x256.png</Icon>
 </Container>
 
