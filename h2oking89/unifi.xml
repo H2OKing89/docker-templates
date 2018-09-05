@@ -30,7 +30,7 @@ using mongod repo instead of ubuntu defaut to install mongo
     </Variable>
   </Environment>
   <Networking>
-    <Mode>bridge</Mode>
+    <Mode>host</Mode>
     <Publish>
       <Port>
         <HostPort>3478</HostPort>
