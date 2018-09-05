@@ -57,7 +57,7 @@ using mongod repo instead of ubuntu defaut to install mongo
         <ContainerPort>8443</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
-	        <Port>
+	  <Port>
         <HostPort>6789</HostPort>
         <ContainerPort>6789/ContainerPort>
         <Protocol>tcp</Protocol>
